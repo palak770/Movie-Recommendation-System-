@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Dataset or large files (if you don't want to push)
+data/
+*.csv
+*.zip
+
+# Pickle files
+*.pkl
+
+# Model files (if using ML)
+*.h5
+*.joblib
+*.pt
+
+# Streamlit cache
+.streamlit/
+
